@@ -1,0 +1,15 @@
+.box{
+    height: 200px;
+    width: 400px;
+    border: 5px solid navy;
+    overflow: scroll;
+}
+.box2{
+    width: 400px;
+    height: 200px;
+    border: 5px solid green;
+}
+.d{
+    width: 200px;
+    height: 200px;
+}
